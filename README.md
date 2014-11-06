@@ -1,2 +1,0 @@
-6w-hypothesis-generator
-=======================

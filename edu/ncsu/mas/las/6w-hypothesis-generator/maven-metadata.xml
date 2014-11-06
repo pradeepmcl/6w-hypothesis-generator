@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.ncsu.mas.las</groupId>
+  <artifactId>6w-hypothesis-generator</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141106052119</lastUpdated>
+  </versioning>
+</metadata>
